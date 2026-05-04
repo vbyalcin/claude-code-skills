@@ -124,22 +124,21 @@ Kendi skill'in profesyonel + müşteri-spesifik olabilir — örn:
 
 \---
 
-## Webinar canlı demo için
+## 
 
-3 günlük webinar boyunca aşağıdaki skill'leri özellikle göstereceğiz:
 
-**Gün 1:**
+**1:**
 
 * `web-saas/landing-page` — sıfırdan landing
 * `is-akislari/sifirdan-portfolio` — freelance portfolio
 
-**Gün 2:**
+**2:**
 
 * `web-saas/saas-mvp` — 7 günlük SaaS plan
 * `is-akislari/sifirdan-saas` — full SaaS build
 * `ai-chatbot/llm-chatbot` — custom chatbot
 
-**Gün 3:**
+**3:**
 
 * `otomasyon/lead-capture` — full lead pipeline
 * `otomasyon/musteri-onboarding` — onboarding flow
@@ -162,5 +161,4 @@ Sektörel öneri:
 
 Bu kütüphane **canlı demo için** + **kendi referansın için** + **müşteriye satarken pitch için** kullanılır.
 
-Goatstarter Ventures
 
